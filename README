@@ -1,6 +1,6 @@
 recordproto
 ------------------------------------------
-Xorg XRecord protocol headers
+X.Org XRecord protocol headers
 
 Build requirements:
   cygwin-1.5.18-1
