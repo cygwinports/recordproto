@@ -1,3 +1,3 @@
 category: X11
-sdesc: "X.Org XRecord protocol headers"
-ldesc: "X.Org XRecord protocol headers"
+sdesc: "X.Org XRecord extension headers"
+ldesc: "X.Org XRecord extension headers"
